@@ -1,45 +1,45 @@
-![image](https://github.com/user-attachments/assets/39ea99ec-a676-4bd2-aa27-cfcf61abbb31)<h1>Real Estate Project On MERN-STACK Technology !💻</h1>
+<h1>Real Estate Project On MERN-STACK Technology !💻</h1>
 
 🚀 Building a Real Estate website using the MERN stack involves creating a full-stack application with MongoDB, Express.js, React.js, and Node.js. Here's a breakdown of the key features you can implement:
 
-User Authentication:
+<h1>User Authentication:</h1>
 Allow users to register and log in. Ensure that certain features, like adding listings or favoriting properties, are accessible only to authenticated users.
 
-CRUD Operations:
-Create:
+<h1>CRUD Operations:</h1>
+<h3>Create:</h3>
 Implement a form to allow users to add new property listings. This form should include details like property name, address, description, price, type (sale or rent), number of bedrooms, bathrooms, etc.
 
-Read:
+<h3>Read:</h3>
 Display property listings on the homepage or on a dedicated listings page. Each listing should show key information and a link to view more details.
 
-Update
+<h3>Update</h3>
 Allow users to edit their own property listings. Include validation to ensure data consistency.
 
-Delete
+<h3>Delete</h3>
 Provide an option for users to delete their listings.
 
-Search and Filters:
+<h3>Search and Filters:</h3>
 Implement a search bar to allow users to search for properties based on keywords like location, type, or price range. Include filters for refining search results, such as filtering by property type, number of bedrooms, bathrooms, etc.
 
-Image Upload:
+<h3>Image Upload:</h3>
 Allow users to upload images for their property listings. Display these images in a gallery or carousel on the listing details page.
 
-User Dashboard
+<h3>User Dashboard</h3>
 Provide a user dashboard where users can manage their property listings, view favorites, and edit their profile.
 
-Responsive Design
+<h3>Responsive Design</h3>
 This website is responsive, making it accessible and user-friendly across various devices, including desktops, tablets, and mobile phones.
 
-Error Handling and Validation
+<h3>Error Handling and Validation</h3>
 Implement thorough error handling and validation on the server and client sides to ensure data integrity and a smooth user experience.
 
-Pagination
+<h3>Pagination</h3>
 If you have a large number of listings, implement pagination to improve page load times and the user experience.
 
-API End Points! 🚀🔗
+<h1>API End Points! 🚀🔗</h1>
 Here's a list of the API endpoints:
 
-User Routes
+<h3>User Routes</h3>
 Sign-Up: /api/user/signup (POST)
 
 Sign-In: /api/user/signin (POST)
@@ -56,7 +56,7 @@ Delete User: /api/user/delete/:id (DELETE)
 
 Get User Listings: /api/user/listings/:id (GET)
 
-Listing Routes
+<h3>Listing Routes</h3>
 Create Listings: /api/listing/create (POST)
 
 Update Listings: /api/listing/update/:id (POST)
@@ -69,22 +69,18 @@ Get Listings: /api/listing/get (GET)
 
 Feel free to include any additional details or explanations as needed for your project.
 
-Screenshots📸
-![App Screenshot]([Uploading image.png…]()
+<h1>Screenshots📸</h1>
+![App Screenshot](https://github.com/user-attachments/assets/39ea99ec-a676-4bd2-aa27-cfcf61abbb31)
+
+![App Screenshot](https://github.com/user-attachments/assets/a712c033-8388-44e9-a74b-93e9b7a00ff9)
+
+![App Screenshot](https://github.com/user-attachments/assets/6a3a7ec8-1d14-40fb-a827-c58ba1fb0ef6)
+
+![App Screenshot](https://github.com/user-attachments/assets/41d80122-8a61-4115-829f-acbbe14e930b)
+
+![App Screenshot](https://github.com/user-attachments/assets/22cbca70-afa3-4644-b40d-9fa67963df37)
 
 
-App Screenshot
-
-App Screenshot
-
-App Screenshot
-
-App Screenshot
-
-App Screenshot
-
-App Screenshot
-
-🚀 About Me
+<h1>🚀 About Me</h1>
 Hi 👋, I'M JAY NARAYAN
 I'm Passionate Full Stack Developer crafting seamless frontend experiences and powerful backend solutions. Expert in React.js and Node.js
